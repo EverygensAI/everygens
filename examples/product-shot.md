@@ -1,22 +1,28 @@
-# Product-shot exercise: a notebook cover
+# Assignment: one notebook, two campaign assets
 
-This is an original planning exercise, not an actual campaign result. Use your own clear photograph of a plain notebook on a desk. A simple cover helps you evaluate shape and motion before working with detailed packaging or lettering.
+**Creative exercise:** this is a planning assignment, not an actual advertisement or a generation-tested result.
 
-Open [Everygen Ads](https://www.everygens.com/everygen-ads), choose a supported image workflow, and review its input requirements and current estimate.
+Use an original photograph of a plain notebook on a desk. Plan two assets from that material: a cover that introduces the notebook and a short detail clip that can sit inside a longer product edit.
 
-## Starter brief
+## Give each asset a separate job
 
-> Show the notebook lying closed on the desk. The camera makes a slow, small move closer to reveal the cover texture, then holds. Keep the notebook's rectangular shape, spine, color, and desk layout consistent with the reference. The entire notebook remains visible. One continuous shot, no opening pages, no added objects.
+| Asset | Viewer should understand | Leave for the editor |
+| --- | --- | --- |
+| Cover image | What the product is, immediately. | Final title, offer wording, and crop. |
+| Detail clip | What the cover surface looks like. | Sequence timing, approved claims, and the closing card. |
 
-## Review before using the result
+Use the [AI Image Generator](https://www.everygens.com/ai-image-generator) if you need to develop a visual concept for the cover; review any resulting product changes carefully. For the detail clip, open [Everygen Ads](https://www.everygens.com/everygen-ads) and select a workflow that supports your source image.
 
-| Check | Look for |
-| --- | --- |
-| Shape | Straight edges and a stable spine. |
-| Appearance | Consistent cover color and recognizable texture. |
-| Framing | The whole notebook remains visible. |
-| Ending | A usable hold rather than an abrupt new movement. |
+## Detail-clip direction
 
-For branded products, inspect every frame containing a logo, label, or claim. A reference image does not guarantee exact lettering or packaging fidelity. Add final copy and verified claims in your editor, and review the finished material for its intended use.
+> The closed notebook remains on the desk. Move the camera a small distance closer to the cover texture, then hold the view. Retain the reference notebook's color, rectangular outline, and spine. Keep every edge inside the frame. Do not open the notebook or introduce other objects.
 
-Read [Make a product video from one photo](https://www.everygens.com/blog/product-video-from-one-photo), or return to the [overview](../README.md).
+## Review the pair before placing copy
+
+Compare both assets with the source photograph. Reject material that changes a feature the campaign relies on. Check the notebook's proportions, cover color, and surface detail; then compare how the two assets look beside one another.
+
+For a branded item, review logos and packaging throughout the clip. Do not infer factual product claims from generated details. Place verified offer wording and the final call to action in your editor, where you control their content and timing.
+
+Keep the original photograph and approved copy with your editing project so the final review has a clear reference. The website's [product-photo walkthrough](https://www.everygens.com/blog/product-video-from-one-photo) covers a related creation process.
+
+Return to [Everygen AI's content routes](../README.md).

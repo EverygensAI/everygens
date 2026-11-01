@@ -1,14 +1,15 @@
-# Support
+# Choose the right help route
 
-Use [Everygen AI contact](https://www.everygens.com/contact) for account access, billing, privacy, rights, or private-media questions. Current plan and download terms are on the [pricing page](https://www.everygens.com/pricing).
+## A guide or product step is unclear
 
-For a public documentation correction or a reproducible issue without private details, use [GitHub Issues](https://github.com/EverygensAI/everygens/issues).
+Open a [public issue](https://github.com/EverygensAI/everygens/issues) when the explanation can be shared openly. Name the page, describe the content you were trying to make, and identify the point where the instructions or behavior diverged from your expectation.
 
-A useful report includes:
+For a reproducible product problem, include the selected workspace and model, steps, browser or device, and approximate date. A short factual description is sufficient; you do not need to publish personal media to explain the issue.
 
-- The affected page and what you were trying to do.
-- The selected workflow and model, if relevant.
-- Steps to reproduce and the expected versus observed behavior.
-- Browser/device information and an approximate date.
+## The question involves your account
 
-Keep passwords, access tokens, payment details, private prompts, uploaded media, and private result links out of public issues. Share sensitive context through the product's support route when needed.
+Use [Everygen AI support](https://www.everygens.com/contact) for sign-in, payment, privacy, or private-media questions. Keep passwords, tokens, payment information, private prompts, and private result URLs out of GitHub issues. Send any necessary private context through the product's support route.
+
+## You want to confirm access or cost
+
+Read [current plans](https://www.everygens.com/pricing) and the [trial and download guide](https://www.everygens.com/blog/everygen-ai-free-trial). The live form shows the selected model's current controls and credit estimate.

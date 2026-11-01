@@ -1,55 +1,57 @@
-# Everygen AI：视频、图片与创作工作流
+# Everygen AI：图片、短视频与产品故事
 
 [English](README.md) · 简体中文
 
-[Everygen AI](https://www.everygens.com/) 是位于 [Everygens.com](https://www.everygens.com/) 的独立 AI 视频与图片创作服务。从一个想法或自己的参考素材开始，选择工作流，再根据生成结果安排下一次修改。
+一张社交配图、一段短动画和一组产品广告，需要不同的创作起点。[Everygen AI](https://www.everygens.com/) 在 [Everygens.com](https://www.everygens.com/) 提供图片与视频创作入口，并为短内容、广告素材和视觉趋势设置了专门的工作区。
 
-本仓库整理公开指南、原创镜头规划练习和文档反馈。练习是创作起点，不是实测结果，也不保证特定输出。
+本资料库从「你已经有什么素材」出发，帮助你安排生成、检查与后期制作，直到作品能够交付。这里整理了入口选择、制作笔记，以及两份原创创作练习。
 
-## 选择创作入口
+## 你要交付什么？
 
-| 工作区 | 适合从什么任务开始 |
-| --- | --- |
-| [AI Video Generator](https://www.everygens.com/ai-video-generator) | 根据文字、图片或所选模型支持的参考输入生成一个片段。 |
-| [AI Image Generator](https://www.everygens.com/ai-image-generator) | 根据文字方案或支持的图片输入创作静态画面。 |
-| [Everygen Studio](https://www.everygens.com/everygen-studio) | 规划短视频、浏览灵感，并改写可用的起始模板。 |
-| [Everygen Ads](https://www.everygens.com/everygen-ads) | 将产品图片与具体镜头想法转成产品视频素材。 |
-| [AI Effects Trend](https://www.everygens.com/ai-effects-trend) | 查找特效工作流并了解其输入要求。 |
+| 交付目标 | 创作入口 | 开始前先决定 |
+| --- | --- | --- |
+| 封面图或视觉概念图 | [AI Image Generator](https://www.everygens.com/ai-image-generator) | 图片会用在哪里，哪些位置需要给文字留空间。 |
+| 一个独立动态场景 | [AI Video Generator](https://www.everygens.com/ai-video-generator) | 从文字想法开始，还是使用工作流支持的参考素材。 |
+| 照片短视频或社交故事 | [Everygen Studio](https://www.everygens.com/everygen-studio) | 在添加字幕之前，开头画面需要传达什么。 |
+| 用于广告剪辑的产品素材 | [Everygen Ads](https://www.everygens.com/everygen-ads) | 哪个产品细节最重要，哪些宣传信息需要最终审核。 |
+| 围绕视觉趋势制作的片段 | [AI Effects Trend](https://www.everygens.com/ai-effects-trend) | 哪个特效适合现有素材，以及需要什么输入。 |
 
-各工作区的模型和控制项有所不同。提交前确认模型、模式、输入要求、时长、比例与当前积分估价。套餐和下载规则以[定价页](https://www.everygens.com/pricing)为准。
+## 从你手里的材料开始
 
-## 从一次明确的尝试开始
+### 有想法，还没有画面
 
-1. 确定目标：静态图片、一个动态镜头，或供长视频剪辑使用的片段。
-2. 如需参考输入，准备原创或已获授权的素材。
-3. 写清主体、一项主要动作、相机运动与结尾画面。
-4. 检查当前控制项和估价，再提交一个版本。
-5. 检查结果，每次只修改一个变量。
+先在图片工作区确定视觉方向，明确构图与主体位置，再考虑是否需要动画。如果之后要把图片用于视频生成，请检查相应工作流的上传要求。[项目起步指南](docs/getting-started.md)说明了如何围绕最终用途做这些选择。
 
-详细步骤见[入门指南](docs/getting-started.md)和[工作区选择](docs/choosing-a-workspace.md)。可以从[照片短视频练习](examples/photo-to-short.md)或[产品镜头练习](examples/product-shot.md)开始。
+### 已经有一张照片
 
-Everygen Studio 与 Everygen Ads 生成独立片段。可用模板填入的是起始方案，应用模板本身不会提交生成。多镜头组接、精确字幕和最终音轨编辑在自己的剪辑软件中完成。
+先区分它要成为氛围型社交内容，还是突出商品的广告素材。[晨间配文短视频练习](examples/photo-to-short.md)采用安静的编辑思路；[文具推广练习](examples/product-shot.md)则为同一张产品图安排两种不同用途。
 
-## 网站教程
+### 已经有一首歌或一个较长的故事
 
-| 教程 | 主要内容 |
-| --- | --- |
-| [把照片变成短视频](https://www.everygens.com/blog/one-photo-ai-short) | 选择源图、描述小幅动作，并检查输出。 |
-| [用一张产品图制作视频](https://www.everygens.com/blog/product-video-from-one-photo) | 产品构图、镜头思路，以及包装细节检查。 |
-| [制作 AI 儿歌视频](https://www.everygens.com/blog/nursery-rhyme-videos-with-ai) | 将歌曲想法与短动画素材结合的实例。 |
-| [给已有儿歌配动画](https://www.everygens.com/blog/animate-an-existing-kids-song) | 围绕已有录音规划镜头，再通过剪辑组接片段。 |
-| [免费试用、积分与下载](https://www.everygens.com/blog/everygen-ai-free-trial) | 了解账户、当前试用和下载规则。 |
+围绕已有材料规划剪辑。歌曲可以先标记歌词分段，再为每段安排视觉内容；生成所需片段后，在剪辑软件中与原录音组接。[已有歌曲配动画教程](https://www.everygens.com/blog/animate-an-existing-kids-song)沿这条路径展开；[儿歌视频教程](https://www.everygens.com/blog/nursery-rhyme-videos-with-ai)则从歌曲想法开始。
 
-## 社区与文档
+## 了解工作区负责哪一步
 
-本 GitHub 仓库维护这些公开指南与规划示例。可复现的产品问题或文档建议可以提交到 [Issues](https://github.com/EverygensAI/everygens/issues)，修改前请阅读[贡献约定](CONTRIBUTING.md)。
+Studio 与 Ads 提供灵感展示，部分内容带有起始模板。应用模板会准备表单，不会直接提交生成。继续操作前，请检查主体描述、所选模型、输入模式与当前积分估价。
 
-账户、付款或私人素材问题请使用 [Everygen AI 联系页](https://www.everygens.com/contact)，并参阅[支持说明](SUPPORT.md)。不要将私人账户和付款信息放进公开议题。
+视频工作区生成的是独立片段。镜头组接、最终字幕排版和连续音轨混合，在剪辑软件中完成。[工作区与后期交接指南](docs/choosing-a-workspace.md)进一步说明了各环节的分工。
 
-## 仓库范围
+## 跟随完整教程制作
 
-这里只包含公开文档与原创规划练习，不包含生产应用、密钥、用户记录、模型权重或可自行部署的完整 Everygen AI 服务。
+- [把照片制作成短视频](https://www.everygens.com/blog/one-photo-ai-short)：从选图走到输出检查。
+- [用一张产品照片制作视频素材](https://www.everygens.com/blog/product-video-from-one-photo)：考虑构图，并核对商品外观。
+- [试用、积分与下载](https://www.everygens.com/blog/everygen-ai-free-trial)：开始前了解账户与下载步骤。
 
-Everygen AI 是独立服务。模型与平台名称归各自所有者所有，不代表隶属或背书。网站示例、模型选项、价格与下载规则可能变化，请以在线工作区为准。
+## 如何使用这个资料库
 
-[关于 Everygen AI](https://www.everygens.com/about) · [产品博客](https://www.everygens.com/blog) · [隐私政策](https://www.everygens.com/privacy) · [服务条款](https://www.everygens.com/terms)
+仓库中的原创练习尚未进行生成测试，也没有附带生成结果。请将其中的编辑思路用于自己有权使用的素材；这些练习与上方网站教程中的实例分别标注。
+
+[阅读使用指南](docs/getting-started.md) · [提出文档建议](https://github.com/EverygensAI/everygens/issues) · [贡献说明](CONTRIBUTING.md)
+
+这里只发布文档，不存放应用代码、密钥或客户数据。Everygen AI 独立运营，提及模型服务商不代表获得其背书。
+
+## 产品信息与帮助
+
+价格与下载规则请查看[当前套餐](https://www.everygens.com/pricing)。账户或付款问题请使用[产品支持入口](https://www.everygens.com/contact)，[支持说明](SUPPORT.md)列出了适合提供的信息。模型是否可用及其设置，以在线工作区为准。
+
+[了解 Everygen AI](https://www.everygens.com/about) · [更多教程](https://www.everygens.com/blog) · [隐私政策](https://www.everygens.com/privacy) · [服务条款](https://www.everygens.com/terms)

@@ -1,55 +1,57 @@
-# Everygen AI — Video, Image & Creator Workflows
+# Everygen AI — Images, Shorts & Product Stories
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[Everygen AI](https://www.everygens.com/) is an independent AI video and image creation service at [Everygens.com](https://www.everygens.com/). Start with an idea or your own reference material, choose a workflow, and review the result before making the next version.
+A social post, a short animation, and a product campaign need different starting points. [Everygen AI](https://www.everygens.com/) brings image and video creation together at [Everygens.com](https://www.everygens.com/), with dedicated spaces for short-form ideas, advertising material, and visual trends.
 
-This repository collects public guides, original shot-planning exercises, and documentation feedback. The exercises are starting points, not tested output or promises of a particular result.
+This collection helps you take a project from the material you already have to something you can finish and share. It includes workspace decisions, production notes, and two original creative assignments.
 
-## Choose a workspace
+## What are you making?
 
-| Workspace | Start here when you want to… |
-| --- | --- |
-| [AI Video Generator](https://www.everygens.com/ai-video-generator) | Create a clip from text, an image, or reference inputs supported by the selected model. |
-| [AI Image Generator](https://www.everygens.com/ai-image-generator) | Develop a still image from a written brief or supported image inputs. |
-| [Everygen Studio](https://www.everygens.com/everygen-studio) | Plan a short video, explore inspiration, and adapt an available starter template. |
-| [Everygen Ads](https://www.everygens.com/everygen-ads) | Turn a product image and a specific shot idea into material for a product video. |
-| [AI Effects Trend](https://www.everygens.com/ai-effects-trend) | Find an effect workflow and review its input instructions. |
+| Your deliverable | Open | Decide before you begin |
+| --- | --- | --- |
+| A cover image or visual concept | [AI Image Generator](https://www.everygens.com/ai-image-generator) | Where the image will appear and which parts need room for text. |
+| A standalone moving scene | [AI Video Generator](https://www.everygens.com/ai-video-generator) | Whether to begin with a written idea or a supported reference input. |
+| A photo-based short or social story | [Everygen Studio](https://www.everygens.com/everygen-studio) | What the opening should communicate before any caption is added. |
+| Product material for an ad edit | [Everygen Ads](https://www.everygens.com/everygen-ads) | Which product detail matters and which claims need your final review. |
+| A clip built around a visual trend | [AI Effects Trend](https://www.everygens.com/ai-effects-trend) | Which effect suits the source and what inputs it requires. |
 
-Model choices and controls vary by workspace. Check the selected model, mode, input requirements, duration, aspect ratio, and current credit estimate before submitting. Use the [pricing page](https://www.everygens.com/pricing) for current plan and download terms.
+## Three ways to begin
 
-## Start with one useful test
+### You have an idea, but no artwork
 
-1. Choose the output you need: a still image, one animated shot, or material for a longer edit.
-2. Prepare an original or authorized reference, if the workflow needs one.
-3. Describe the subject, one main action, the camera, and the intended ending.
-4. Review the current controls and estimate, then submit one version.
-5. Inspect the result and change one variable for the next attempt.
+Develop a visual direction in the image workspace. Decide on composition and where the subject sits before considering animation. If you later use the image in a video workflow, check that workflow's upload requirements. The [project starter](docs/getting-started.md) explains how to keep the intended deliverable clear throughout these decisions.
 
-Read [Getting started](docs/getting-started.md) and [Choosing a workspace](docs/choosing-a-workspace.md) for a fuller walkthrough. For practical briefs, try the [photo-to-short exercise](examples/photo-to-short.md) or [product-shot exercise](examples/product-shot.md).
+### You already have a photograph
 
-Everygen Studio and Everygen Ads generate individual clips. An available template fills a starting brief; applying it does not itself generate a video. Use your editor for timeline assembly, exact caption placement, and final audio editing.
+Decide whether the photograph should become an atmospheric social clip or product material. Explore the [morning-post assignment](examples/photo-to-short.md) for a quiet editorial treatment, or the [stationery-campaign assignment](examples/product-shot.md) for two different uses of one product photo.
 
-## Tutorials on the website
+### You have a song or a longer story
 
-| Guide | What it covers |
-| --- | --- |
-| [Turn a photo into a short video](https://www.everygens.com/blog/one-photo-ai-short) | Source-image selection, a modest motion prompt, and reviewing the output. |
-| [Make a product video from one photo](https://www.everygens.com/blog/product-video-from-one-photo) | Product framing, camera ideas, and checking packaging details. |
-| [Make nursery rhyme videos with AI](https://www.everygens.com/blog/nursery-rhyme-videos-with-ai) | A worked example connecting a song idea with short animated material. |
-| [Animate an existing kids’ song](https://www.everygens.com/blog/animate-an-existing-kids-song) | Plan shots around an existing recording and assemble the clips in an editor. |
-| [Free trial, credits, and downloads](https://www.everygens.com/blog/everygen-ai-free-trial) | Understand account access and the current trial and download rules. |
+Plan the edit around the material that already exists. For a song, mark the lyric boundaries first and assign a visual idea to each section. Generate the required clips, then assemble them with the recording in your editor. The [existing-song walkthrough](https://www.everygens.com/blog/animate-an-existing-kids-song) follows that route; the [nursery-rhyme tutorial](https://www.everygens.com/blog/nursery-rhyme-videos-with-ai) starts from a song idea.
 
-## Community & Documentation
+## Know what happens inside each workspace
 
-This GitHub repository is the public home for these guides and planning examples. Use [Issues](https://github.com/EverygensAI/everygens/issues) for reproducible product problems or documentation suggestions, and follow [CONTRIBUTING.md](CONTRIBUTING.md) when proposing a change.
+Studio and Ads offer inspiration galleries, and some entries include a starter template. Applying a template prepares the form; it does not submit a generation. Review your subject, selected model, input mode, and current credit estimate before continuing.
 
-For account, payment, or private-media questions, use the [Everygen AI contact page](https://www.everygens.com/contact) and read [SUPPORT.md](SUPPORT.md). Keep private account and payment details out of public issues.
+The video workspaces produce individual clips. Arrange a sequence, place final captions, and mix a continuous soundtrack in an editor. See [Workspace and editing handoffs](docs/choosing-a-workspace.md) for the division of work.
 
-## Repository scope
+## Read a complete walkthrough
 
-This repository contains public documentation and original planning exercises. It does not contain the production application, credentials, user records, model weights, or a self-hostable copy of Everygen AI.
+- [A photo becomes a short video](https://www.everygens.com/blog/one-photo-ai-short): follow the route from source selection to output review.
+- [One product photo becomes video material](https://www.everygens.com/blog/product-video-from-one-photo): consider framing and inspect the product's appearance.
+- [Trial access, credits, and downloads](https://www.everygens.com/blog/everygen-ai-free-trial): understand the account and download steps before starting.
 
-Everygen AI is an independent service. Model and platform names belong to their respective owners and do not imply affiliation or endorsement. Website galleries, model options, prices, and download terms may change; use the live workspace for the current settings.
+## Use this collection
 
-[About Everygen AI](https://www.everygens.com/about) · [Product blog](https://www.everygens.com/blog) · [Privacy](https://www.everygens.com/privacy) · [Terms](https://www.everygens.com/terms)
+The local assignments are untested creative exercises, with no generated output attached. Adapt their editorial decisions to your own authorized material. They are separate from the worked examples linked on the website.
+
+[Browse all guides](docs/getting-started.md) · [Suggest a correction](https://github.com/EverygensAI/everygens/issues) · [Contribution notes](CONTRIBUTING.md)
+
+Only documentation is published here. Application code, credentials, and customer data are outside this repository. Everygen AI is an independently operated service; references to model providers do not imply their endorsement.
+
+## Product details and help
+
+Consult [current plans](https://www.everygens.com/pricing) for prices and download terms. For an account or payment question, use [product support](https://www.everygens.com/contact); [SUPPORT.md](SUPPORT.md) explains what to include. Model availability and settings are shown in the live workspace.
+
+[About Everygen AI](https://www.everygens.com/about) · [More tutorials](https://www.everygens.com/blog) · [Privacy](https://www.everygens.com/privacy) · [Terms](https://www.everygens.com/terms)

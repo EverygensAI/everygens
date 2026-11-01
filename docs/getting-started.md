@@ -1,30 +1,37 @@
-# Your first Everygen AI brief
+# Turn a content idea into a deliverable
 
-Begin with a result you can describe and inspect. A single shot of one object is easier to revise than a scene with several characters, actions, camera moves, and text overlays.
+Start by naming the thing you intend to publish. “A cover for a weekend reading post” gives you a useful decision rule: the picture must leave room for a title and make sense at a small size. A general request for an attractive image does not settle either requirement.
 
-## Prepare the input
+## Make a small production card
 
-Open the [AI Video Generator](https://www.everygens.com/ai-video-generator) for motion or the [AI Image Generator](https://www.everygens.com/ai-image-generator) for a still image. Choose the mode and model before preparing your upload: accepted formats, image dimensions, reference roles, and other controls depend on that selection.
+Fill in these fields before opening a workspace:
 
-Use source material you made or have permission to use. For a reference image, decide whether it supplies the opening composition, the subject's appearance, or another visual characteristic. Use the input role offered by the selected workflow instead of assuming every image field works the same way.
-
-## Write the brief
-
-| Decision | Write down |
+| Field | Example for a reading post |
 | --- | --- |
-| Subject | The object or person the viewer should notice. |
-| Setting | The background and light needed to understand the scene. |
-| Action | One visible event, or the still-image pose. |
-| Camera | A stable view or one simple motion. |
-| Constraints | Details that matter, such as keeping the entire product in frame. |
-| Review | What would make this attempt usable for your purpose. |
+| Audience and placement | Readers browsing a vertical social feed. |
+| Deliverable | A still cover, with an optional short animated version. |
+| Existing material | An original photograph of an open book and reading corner. |
+| Required detail | The book must remain clearly identifiable. |
+| Finishing work | Add the title and publication date in an editor. |
 
-For example: a plain ceramic cup, soft window light, one small curl of steam, and a stationary camera. This is a planning idea, not a tested output.
+This is an illustrative assignment, not a tested generation result.
 
-## Submit and review
+## Choose what to create first
 
-Check the current credit estimate after changing the settings. Review plan and download terms on the [pricing page](https://www.everygens.com/pricing). Submit one attempt and inspect your own completed output; the workspace's demonstration sample is separate from your result.
+If you need artwork, start in the [AI Image Generator](https://www.everygens.com/ai-image-generator). Describe the visual arrangement and intended use. Reserve space for final typography instead of depending on generated lettering for an important title.
 
-For video, watch at normal speed and inspect the beginning, middle, and end. For an image, inspect subject shape, requested text, composition, and details at the size you intend to use. Record the most important issue before changing the prompt or model.
+If your photograph already supplies the composition, consider [Everygen Studio](https://www.everygens.com/everygen-studio) for a short-form treatment. Use the [AI Video Generator](https://www.everygens.com/ai-video-generator) when you want to explore the available video modes directly. Accepted reference types and controls depend on the selected model.
 
-Continue with [Choosing a workspace](choosing-a-workspace.md), the [photo exercise](../examples/photo-to-short.md), or the [product exercise](../examples/product-shot.md).
+Before submission, inspect the actual form: selected model, mode, media input, supported format, and credit estimate. Review [plan and download conditions](https://www.everygens.com/pricing). An available gallery template is a starting point for editing that form.
+
+## Review at the intended viewing size
+
+A full-screen preview may hide a problem that appears in a small feed card. Check whether the subject is recognizable, title space is clear, and a vertical crop preserves important details. With video, also check whether the opening works without sound and whether the ending leaves room for your edit.
+
+Write the reason a candidate is usable or unusable. For example, “clear subject, but no room for the title” is a more useful note than “version two is better.” Use that reason to decide whether to adjust composition, source material, or the later edit.
+
+## Finish the publication in your editor
+
+Place final wording, assemble any clips, and add authorized audio where needed. Recheck the finished crop and text placement after export. This repository describes preparation and review; it does not provide automatic editing or social publishing.
+
+Continue with [Workspace and editing handoffs](choosing-a-workspace.md) or the [morning-post assignment](../examples/photo-to-short.md).

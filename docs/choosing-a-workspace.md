@@ -1,23 +1,27 @@
-# Choose the workspace that matches the task
+# Workspace and editing handoffs
 
-Start with the material you have and the result you need. A task-specific page can help frame a brief, while the general generators expose the available model and input choices.
+A useful production plan identifies what each step should deliver to the next. An inspiration clip, a generated candidate, and a finished social post have different roles.
 
-| Starting point | Workspace | First decision |
+## Route the material you have
+
+| Material in hand | Work to do in Everygen AI | Work to finish afterward |
 | --- | --- | --- |
-| A written video idea | [AI Video Generator](https://www.everygens.com/ai-video-generator) | Choose one action and a supported video mode. |
-| A still-image concept | [AI Image Generator](https://www.everygens.com/ai-image-generator) | Specify the subject, composition, and intended use. |
-| A short-form story or photo | [Everygen Studio](https://www.everygens.com/everygen-studio) | Decide what one clip should communicate. |
-| A product image | [Everygen Ads](https://www.everygens.com/everygen-ads) | Identify the product feature the viewer should see. |
-| A named visual trend | [AI Effects Trend](https://www.everygens.com/ai-effects-trend) | Read the selected effect's input instructions. |
+| A written concept | Explore a composition in the [AI Image Generator](https://www.everygens.com/ai-image-generator). | Place final titles and check the publishing crop. |
+| A motion idea or supported reference | Create a scene in the [AI Video Generator](https://www.everygens.com/ai-video-generator). | Trim and place it in the edit. |
+| A photo for a short social story | Use [Everygen Studio](https://www.everygens.com/everygen-studio) to explore a treatment. | Add caption timing and any surrounding scenes. |
+| A product photograph | Use [Everygen Ads](https://www.everygens.com/everygen-ads) to develop product material. | Verify the product, add approved copy, and assemble the campaign edit. |
+| A trend you want to interpret | Find the relevant page through [AI Effects Trend](https://www.everygens.com/ai-effects-trend). | Review the result against the intended audience and context. |
 
-## Using inspiration and templates
+## Inspiration is a reference, not a completed job
 
-Studio and Ads include inspiration galleries. Some examples offer a starter template; others are for reference only. Applying an available template is a form-editing step, not a generation request. Rewrite the subject and action to fit your own material, then recheck the selected model and controls.
+Studio and Ads galleries help you choose a direction. Some entries offer a template, while others are only examples. Applying a template fills a starting form without requesting generation. Adapt it to your material and inspect the model and controls before submitting.
 
-An inspiration clip does not establish which result your current settings will produce. Keep the preview separate from your own output when reviewing an attempt.
+Keep the gallery preview separate from your own completed output. Only your output tells you how the submitted inputs and settings worked together.
 
-## Finishing a sequence
+## A song needs an editing plan
 
-Generate and review individual clips before assembling a longer sequence. Use an editor for cuts, exact caption placement, and a continuous soundtrack. For an existing song, keep the authorized recording on the editing timeline and plan visual scenes around its lyric timings.
+For an existing recording, mark the start and end of each lyric section on your timeline. Decide where a visual can repeat and where the scene needs to change. Create the required individual clips, then align them with the recording in an editor. The [existing-song walkthrough](https://www.everygens.com/blog/animate-an-existing-kids-song) provides an example.
 
-See the website's [existing-song tutorial](https://www.everygens.com/blog/animate-an-existing-kids-song) for a worked example, or return to the [overview](../README.md).
+Do not assume that choosing Studio or Ads creates a multi-scene timeline, exact captions, or a continuous soundtrack. Those finishing decisions belong in the edit.
+
+Return to the [project starter](getting-started.md) or [repository home](../README.md).
