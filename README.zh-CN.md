@@ -56,6 +56,7 @@ GitHub 是 Everygen AI 资料库的主要入口。以下版本分别围绕不同
 
 | 平台 | 内容侧重点 | 公开仓库 |
 | --- | --- | --- |
+| GitLab | 内容项目规划 | [gitlab.com/zhh0504/everygens](https://gitlab.com/zhh0504/everygens) |
 | Bitbucket | 从候选素材到剪辑交接 | [bitbucket.org/everygensai/everygens](https://bitbucket.org/everygensai/everygens/src/main/) |
 | GitCode | 素材准备与输入选择 | [gitcode.com/2501_92380024/everygens](https://gitcode.com/2501_92380024/everygens) |
 | Gitea | 可复用的创作方案 | [gitea.com/kiraplane/everygens](https://gitea.com/kiraplane/everygens) |

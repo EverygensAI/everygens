@@ -56,6 +56,7 @@ GitHub is the starting point for the Everygen AI collection. These additional ed
 
 | Platform | Edition focus | Public repository |
 | --- | --- | --- |
+| GitLab | Content project planning | [gitlab.com/zhh0504/everygens](https://gitlab.com/zhh0504/everygens) |
 | Bitbucket | From candidate to editing handoff | [bitbucket.org/everygensai/everygens](https://bitbucket.org/everygensai/everygens/src/main/) |
 | GitCode | Source preparation and input choices | [gitcode.com/2501_92380024/everygens](https://gitcode.com/2501_92380024/everygens) |
 | Gitea | Reusable creative recipes | [gitea.com/kiraplane/everygens](https://gitea.com/kiraplane/everygens) |
