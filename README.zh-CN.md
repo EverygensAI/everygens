@@ -50,6 +50,19 @@ Studio 与 Ads 提供灵感展示，部分内容带有起始模板。应用模�
 
 这里只发布文档，不存放应用代码、密钥或客户数据。Everygen AI 独立运营，提及模型服务商不代表获得其背书。
 
+## 各平台公开文档
+
+GitHub 是 Everygen AI 资料库的主要入口。以下版本分别围绕不同的制作环节展开，配有独立的工作指南与原创练习；各版本手动维护，并链接回此处的主文档。
+
+| 平台 | 内容侧重点 | 公开仓库 |
+| --- | --- | --- |
+| Bitbucket | 从候选素材到剪辑交接 | [bitbucket.org/everygensai/everygens](https://bitbucket.org/everygensai/everygens/src/main/) |
+| GitCode | 素材准备与输入选择 | [gitcode.com/2501_92380024/everygens](https://gitcode.com/2501_92380024/everygens) |
+| Gitea | 可复用的创作方案 | [gitea.com/kiraplane/everygens](https://gitea.com/kiraplane/everygens) |
+| Launchpad | 围绕已有音频规划视觉段落 | [code.launchpad.net/~followcloud/+git/everygens](https://code.launchpad.net/~followcloud/+git/everygens) |
+
+上表仓库仅包含公开文档，其中新增原创文字采用 CC BY 4.0 授权；该授权不涉及生产应用或链接网站中的素材。
+
 ## 产品信息与帮助
 
 价格与下载规则请查看[当前套餐](https://www.everygens.com/pricing)。账户或付款问题请使用[产品支持入口](https://www.everygens.com/contact)，[支持说明](SUPPORT.md)列出了适合提供的信息。模型是否可用及其设置，以在线工作区为准。

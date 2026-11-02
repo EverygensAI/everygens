@@ -50,6 +50,19 @@ The local assignments are untested creative exercises, with no generated output 
 
 Only documentation is published here. Application code, credentials, and customer data are outside this repository. Everygen AI is an independently operated service; references to model providers do not imply their endorsement.
 
+## Public documentation editions
+
+GitHub is the starting point for the Everygen AI collection. These additional editions explore different production decisions, with their own working guide and original assignment. They are maintained manually; each edition links back here for the main documentation.
+
+| Platform | Edition focus | Public repository |
+| --- | --- | --- |
+| Bitbucket | From candidate to editing handoff | [bitbucket.org/everygensai/everygens](https://bitbucket.org/everygensai/everygens/src/main/) |
+| GitCode | Source preparation and input choices | [gitcode.com/2501_92380024/everygens](https://gitcode.com/2501_92380024/everygens) |
+| Gitea | Reusable creative recipes | [gitea.com/kiraplane/everygens](https://gitea.com/kiraplane/everygens) |
+| Launchpad | Sequence planning for existing audio | [code.launchpad.net/~followcloud/+git/everygens](https://code.launchpad.net/~followcloud/+git/everygens) |
+
+The repositories listed here contain public documentation only. Their newly written text is licensed under CC BY 4.0; that license does not apply to the production application or materials on linked websites.
+
 ## Product details and help
 
 Consult [current plans](https://www.everygens.com/pricing) for prices and download terms. For an account or payment question, use [product support](https://www.everygens.com/contact); [SUPPORT.md](SUPPORT.md) explains what to include. Model availability and settings are shown in the live workspace.
